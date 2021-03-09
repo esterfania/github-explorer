@@ -1,7 +1,8 @@
 # Chapter I - Fundamentos do ReactJS
 
-### Este repositório contém o conteúdo em código apresentado durante o Chapter I - Fundamentos do ReactJS.
+#### Este repositório contém o conteúdo em código apresentado durante o Chapter I - Fundamentos do ReactJS.
 
+Foi construída uma aplicação que lista os repositórios de um user no Github.
 
 Tópicos abordados:
 
